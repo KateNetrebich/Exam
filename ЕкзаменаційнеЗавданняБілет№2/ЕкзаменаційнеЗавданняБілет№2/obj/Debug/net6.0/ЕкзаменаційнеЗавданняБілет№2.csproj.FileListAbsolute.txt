@@ -1,0 +1,5 @@
+C:\Users\Kate\source\repos\Exam\ЕкзаменаційнеЗавданняБілет№2\ЕкзаменаційнеЗавданняБілет№2\obj\Debug\net6.0\ЕкзаменаційнеЗавданняБілет№2.csproj.AssemblyReference.cache
+C:\Users\Kate\source\repos\Exam\ЕкзаменаційнеЗавданняБілет№2\ЕкзаменаційнеЗавданняБілет№2\obj\Debug\net6.0\ЕкзаменаційнеЗавданняБілет№2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kate\source\repos\Exam\ЕкзаменаційнеЗавданняБілет№2\ЕкзаменаційнеЗавданняБілет№2\obj\Debug\net6.0\ЕкзаменаційнеЗавданняБілет№2.AssemblyInfoInputs.cache
+C:\Users\Kate\source\repos\Exam\ЕкзаменаційнеЗавданняБілет№2\ЕкзаменаційнеЗавданняБілет№2\obj\Debug\net6.0\ЕкзаменаційнеЗавданняБілет№2.AssemblyInfo.cs
+C:\Users\Kate\source\repos\Exam\ЕкзаменаційнеЗавданняБілет№2\ЕкзаменаційнеЗавданняБілет№2\obj\Debug\net6.0\ЕкзаменаційнеЗавданняБілет№2.csproj.CoreCompileInputs.cache
